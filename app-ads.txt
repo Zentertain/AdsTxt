@@ -150,4 +150,4 @@ pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
 smartadserver.com, 3713, RESELLER
 video.unrulymedia.com, 2169000724, RESELLER
-
+google.com, pub-9414288950296780, DIRECT, f08c47fec0942fa0
