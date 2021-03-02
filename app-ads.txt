@@ -198,3 +198,13 @@ algorix.co, 60086, Reseller, 5b394c12fea27a1d
 algorix.co, 60087, Reseller, 5b394c12fea27a1d
 algorix.co, 60093, Reseller, 5b394c12fea27a1d
 pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+
+ironsrc.com, 194485, Direct , 79929e88b2ba73bc
+ironsrc.com, 96729, Direct , 79929e88b2ba73bc
+appnexus.com, 7445, RESELLER
+google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
+smartadserver.com, 3020, RESELLER
+yieldlab.net, 2172218, RESELLER
+appnexus.com, 3368, RESELLER
+verve.com, 14561, RESELLER, 0c8f5958fc2d6270
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
