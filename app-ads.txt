@@ -191,3 +191,10 @@ aralego.com, par-BE7E29B3B48DE66BC7DDDA24E6267E29, RESELLER
 ucfunnel.com, par-BE7E29B3B48DE66BC7DDDA24E6267E29, RESELLER
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
+adcolony.com, 3dcf9f51638afe2c, RESELLER, 1ad675c9de6b5176
+algorix.co, 60082, Reseller, 5b394c12fea27a1d
+algorix.co, 60085, Reseller, 5b394c12fea27a1d
+algorix.co, 60086, Reseller, 5b394c12fea27a1d
+algorix.co, 60087, Reseller, 5b394c12fea27a1d
+algorix.co, 60093, Reseller, 5b394c12fea27a1d
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
