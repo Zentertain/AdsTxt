@@ -316,6 +316,7 @@ meitu.com, 179, RESELLER
 meitu.com, 253, RESELLER
 meitu.com, 282, RESELLER
 meitu.com, 698, RESELLER
+mintegral.com, 19423, DIRECT, 0aeed750c80d6423
 mobfox.com, 82593, RESELLER, 5529a3d1f59865be
 mobilefuse.com, 2281, RESELLER
 mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
@@ -600,3 +601,4 @@ yandex.com, 37982190, RESELLER
 yieldlab.net, 2172218, RESELLER
 yieldlab.net, 6378054, RESELLER
 yieldmo.com, 2807970144171533194, RESELLER
+indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
