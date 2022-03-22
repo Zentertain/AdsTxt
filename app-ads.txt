@@ -785,4 +785,5 @@ chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
 pubmatic.com, 156435, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158111, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158112, RESELLER, 5d62403b186f2ace
-indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
+aps.amazon.com,729450f7-a154-4574-980a-102235a14dce,DIRECT
+google.com, pub-5759440381348338, DIRECT, f08c47fec0942fa0
