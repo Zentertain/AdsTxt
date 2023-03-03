@@ -1577,3 +1577,4 @@ showheroes.com, 6018, RESELLER
 video.unrulymedia.com, 649652654350370180, RESELLER
 visiblemeasures.com, 1001, RESELLER
 whildey.com, 2129553945, RESELLER
+google.com, pub-9866654043092476, DIRECT, f08c47fec0942fa0
