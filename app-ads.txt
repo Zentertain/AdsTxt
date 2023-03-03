@@ -1560,21 +1560,4 @@ xandr.com, 14254, RESELLER
 consumable.com, 2001444, RESELLER
 pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
 appnexus.com, 11487, RESELLER, f5ab79cb980f11d1
-adform.com, 2967, RESELLER
-airnowplatform.com, 7000208, RESELLER
-alpineinteractivegroup.com, 8113111129, RESELLER
-appnexus.com, 14228, RESELLER
-appnexus.com, 14423, RESELLER
-gitberry.com, 345100012, RESELLER
-google.com, pub-3565385483761681, RESELLER
-google.com, pub-5717092533913515, RESELLER
-google.com, pub-6346866704322274, RESELLER
-instreamatic.com, 99, RESELLER
-mediaverse.ai, 302149932, RESELLER
-prequel.tv, 517, RESELLER
-sharethrough.com, pLL9cLon, RESELLER
-showheroes.com, 6018, RESELLER
-video.unrulymedia.com, 649652654350370180, RESELLER
-visiblemeasures.com, 1001, RESELLER
-whildey.com, 2129553945, RESELLER
 google.com, pub-9866654043092476, DIRECT, f08c47fec0942fa0
