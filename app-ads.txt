@@ -3708,3 +3708,5 @@ sharethrough.com, sWxCFjI8, RESELLER, d53b998a7bd4ecd2
 appnexus.com, 15774, RESELLER
 onetag.com, 847013a8430d672, RESELLER
 lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
+pubwise.io, 83524747, RESELLER, c327c91a93a7cdd3 #Smaato
+pubmatic.com, 164282, RESELLER, 5d62403b186f2ace
