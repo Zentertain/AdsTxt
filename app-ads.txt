@@ -3815,3 +3815,9 @@ freewheel.tv, 1307007, RESELLER
 freewheel.tv, 1307039, RESELLER
 freewheel.tv, 1307119, RESELLER
 video.unrulymedia.com, 3890682751, RESELLER
+opera.com,pub10832153240576,DIRECT,55a0c5fd61378de3
+axonix.com, 59089, RESELLER, bc385f2b4a87b721
+improvedigital.com, 2276, RESELLER
+onetag.com,82e44d118b79600,DIRECT
+conversantmedia.com, 100269, RESELLER, 03113cd04947736d
+vidoomy.com, 4930225, RESELLER
