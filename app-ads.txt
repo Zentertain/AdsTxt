@@ -3814,13 +3814,8 @@ freewheel.tv, 939745, RESELLER
 freewheel.tv, 1307007, RESELLER
 freewheel.tv, 1307039, RESELLER
 freewheel.tv, 1307119, RESELLER
-video.unrulymedia.com, 3890682751, RESELLER
 opera.com,pub10832153240576,DIRECT,55a0c5fd61378de3
-axonix.com, 59089, RESELLER, bc385f2b4a87b721
-improvedigital.com, 2276, RESELLER
 onetag.com,82e44d118b79600,DIRECT
-conversantmedia.com, 100269, RESELLER, 03113cd04947736d
-vidoomy.com, 4930225, RESELLER
 vrtcal.com, 470, DIRECT, c6daee9168853e2d
 rubiconproject.com, 16466, RESELLER, 0bfd66d529a55807
 openx.com, 540680795, RESELLER, 6a698e2ec38604c6
@@ -3830,14 +3825,7 @@ pubmatic.com, 160056, RESELLER, 5d62403b186f2ace
 triplelift.com, 13668, RESELLER, 6c33edb13117fd86
 indexexchange.com, 191460, RESELLER, 50b1c356f2c5c8fc
 xad.com, 646, RESELLER, 81cbf0a75a5e0e9a
-rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
 conversantmedia.com, 41063, RESELLER, 03113cd04947736d
-appnexus.com, 4052, RESELLER
-contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
-openx.com, 540031703, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
-yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b 
 video.unrulymedia.com, 645663965, RESELLER
 admanmedia.com, 2050, RESELLER
@@ -3846,7 +3834,6 @@ smartyads.com,300045, RESELLER, fd2bde0ff2e62c5d
 inmobi.com, f4b340bf9ec148c48892790edffe4f91, RESELLER, 83e75a7ae333ca9d
 adcolony.com, 8d559ca59197a1a0, RESELLER, 1ad675c9de6b5176
 sonobi.com, 1030aa5329, RESELLER, d1a215d9eb5aee9e
-contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
 yahoo.com, 59875, RESELLER
 peak226.com, 14200, RESELLER
 dauup.com, 34111, RESELLER
@@ -3860,22 +3847,13 @@ rubiconproject.com, 9755, RESELLER, 0bfd66d529a55807
 improvedigital.com, 1797, RESELLER 
 pubmatic.com, 158651, RESELLER, 5d62403b186f2ace
 e-planning.net, 03c50f11196de59b, RESELLER, c1ba615865ed87b2
-appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 indexexchange.com, 190243, RESELLER
-rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
 rhythmone.com, 3227031674, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3227031674, RESELLER
-rubiconproject.com, 26270, RESELLER, 0bfd66d529a55807
-smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
 orangeclickmedia.com, C-1103, RESELLER
 appnexus.com, 14416, RESELLER
 appnexus.com, 14808, RESELLER
 sharethrough.com, a6Qdi6Dn, RESELLER, d53b998a7bd4ecd2
-pubmatic.com, 156557, RESELLER
-rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
-openx.com, 540274407, RESELLER, 6a698e2ec38604c6
-smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
-yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 freewheel.tv, 1599301, RESELLER
 freewheel.tv, 1599304, RESELLER
 selectmedia.asia, 645b5a31e427dc0a87091fe1, RESELLER, e365c871a27c655d
@@ -3916,3 +3894,22 @@ surgemedia.space, 113415, RESELLER
 surgemedia.space, 113416, RESELLER
 theimpact.digital, 321447, RESELLER
 theimpact.digital, 321448, RESELLER
+anzu.io, 64ef4408ff6aa93e9c82ef9f, DIRECT, 1c1b7acf4992136c
+anzu.io, 64ef4408ff6aa93e9c82ef9f, RESELLER, 1c1b7acf4992136c
+onetag.com, 89211985ede1484, RESELLER
+tritondigital.com, 177203, RESELLER,  19b4454d0b87b58b
+themediagrid.com, 25XPU9, RESELLER,  35d5010d7789b49d
+supply.colossusssp.com, 547, RESELLER,  6c5b49d96ec1b458
+smartadserver.com, 4618, RESELLER,  060d053dcf45cbf3
+Media.net, 8CUT8CWB6, RESELLER
+loopme.com, 11594, RESELLER,  6c8d5f95897a5a3b
+inmobi.com, 77f768cb1be84ffaa296c61ffd61a314, RESELLER,  83e75a7ae333ca9d
+improvedigital.com, 2226, RESELLER
+criteo.com, B-072737, RESELLER,  9fac4a4a87c2a44f
+criteo.com, B-063681, RESELLER,  9fac4a4a87c2a44f
+adtonos.com, PUB572385971, RESELLER
+admixer.net, b72d403d-e25e-4bc7-ad9c-6e929a66f502, RESELLER
+admanmedia.com, 2160, RESELLER
+adform.com, 2985, RESELLER,  9f5210a2f0999e32
+adform.com, 1512, RESELLER,  9f5210a2f0999e32
+pubmatic.com, 158903, RESELLER, 5d62403b186f2ace
