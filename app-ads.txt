@@ -5589,3 +5589,88 @@ applovin.com, c20cc54f8fc499bb01839085c5e28059, DIRECT
 applovin.com, 7efb6550410a89527ead127ef65da7e3, DIRECT
 applovin.com, 4af1de7d48d1c66881181d908bbc8a9d, DIRECT
 applovin.com, 089d8fe0b28ec2558bcfa7de5a793853, DIRECT
+contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
+vidoomy.com, 7646534, DIRECT
+axonix.com, 59054, RESELLER, bc385f2b4a87b721
+programmaticx.ai, 6845438, RESELLER
+emxdgt.com, 2041, RESELLER, 1e1d41537f7cad7f
+se7en.es, 212450, RESELLER, 064bc410192443d8
+pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
+eskimi.com, eas-2020000005, RESELLER
+peak226.com, 12400, RESELLER
+emxdgt.com, 1324, RESELLER, 1e1d41537f7cad7f
+freewheel.tv, 741650, RESELLER
+unrulymedia.com, 689559416, RESELLER
+equativ.com, 4762, RESELLER, 060d053dcf45cbf3
+thunder-monetize.com, 4818959194, RESELLER
+thunder-monetize.com, 6343837988, RESELLER
+thunder-monetize.com, 1723306631, RESELLER
+rhebus.works, 1153976260, RESELLER
+rhebus.works, 5066442680, RESELLER
+rhebus.works, 3478092519, RESELLER
+atasdigital.com, 504422, RESELLER
+inmobi.com, 30eb9116886a497db0c502e8cf0aa4d3, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 26086, RESELLER, 0bfd66d529a55807
+lijit.com, 473789, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 164018, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164019, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
+rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
+bigo.sg, 1011110, RESELLER
+smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
+ignitemediatech.com, pub_1001, RESELLER
+lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
+thunder-monetize.com, 2297825074, RESELLER
+thunder-monetize.com, 3692155372, RESELLER
+thunder-monetize.com, 3905806597, RESELLER
+alpecs.com, 5656395907, RESELLER
+connekt.ai, 7343318920, RESELLER
+houseofpubs.com, 3800226559, RESELLER
+pubmatic.com, 164146, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163038, RESELLER, 5d62403b186f2ace
+themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
+criteo.com, B-072581, RESELLER, 9fac4a4a87c2a44f
+ignitemediatech.com, pub_11112, RESELLER
+lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
+whildey.com, 5541841875, RESELLER
+adnuro.com, 2882096573, RESELLER
+newsusadigital.com, 1001719521, RESELLER
+balloonlabs.ai, 9173515033, RESELLER
+advanttechnology.com, 1126183541, RESELLER
+aluna.co, 2335974998, RESELLER
+boostappi.com, 3038253635, RESELLER
+alpineinteractivegroup.com, 9263716895, RESELLER
+pubmatic.com, 163652, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161325, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163558, RESELLER, 5d62403b186f2ace
+caerulus.io, 3320-39849, RESELLER
+lacunads.com, LC136f79e999464edc, RESELLER
+ads.vk.com, 18644219, RESELLER
+sonobi.com, f23858a5df, RESELLER, d1a215d9eb5aee9e
+improvedigital.com, 1234, RESELLER
+triplelift.com, 13012, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 1058378980, RESELLER
+video.unrulymedia.com, 682817271102171104, RESELLER
+video.unrulymedia.com, 1286320118, RESELLER
+whildey.com, 6401127138, RESELLER
+advanttechnology.com, 2142690699, RESELLER
+goldbach-germany.de, Connekt, RESELLER
+tremorhub.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+telaria.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+xandr.com, 15769, RESELLER
+appnexus.com, 15769, RESELLER, f5ab79cb980f11d1
+bidease.com, bidease_seller_34, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
+bold-win.com, 807, RESELLER, 71746737d0bab951
+flat-ads.com, 2196901, RESELLER
+themediagrid.com, SH96GF, RESELLER, 35d5010d7789b49d
+alpecs.com, 2448028124, RESELLER
+aceex.io, 1697, RESELLER
+video.unrulymedia.com, 949394431, RESELLER
+appaspire.com, 97517, RESELLER
+contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
+smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
+onetag.com, 8668c16092f01e8, RESELLER
+ylhglobal.com, 1930587443, RESELLER
+toponad.com, 1661f80179644e, RESELLER, 1d49fe424a1a456d
+freewheel.tv, 1603124, RESELLER
