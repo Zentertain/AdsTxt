@@ -5682,3 +5682,4 @@ xad.com, 2524, RESELLER, 81cbf0a75a5e0e9a
 loopme.com, 11438, RESELLER, 6c8d5f95897a5a3b
 yieldmo.com, 2964605906026701296, RESELLER
 lijit.com, 452742, RESELLER, fafdf38b16bf6b2b
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
