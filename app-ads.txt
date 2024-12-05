@@ -9405,3 +9405,7 @@ video.unrulymedia.com, 1876793108340587286, RESELLER
 lijit.com, 491580, RESELLER, fafdf38b16bf6b2b
 openx.com, 561470659, RESELLER, 6a698e2ec38604c6
 bigo.sg, 128, DIRECT
+zmaticoo.com, 5135063, RESELLER
+opera.com,pub6148735850944,RESELLER,55a0c5fd61378de3
+contextweb.com,563605,RESELLER,89ff185a4c4e857c
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
