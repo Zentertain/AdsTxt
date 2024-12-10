@@ -10417,3 +10417,5 @@ sharethrough.com, j0nru1gr, RESELLER, d53b998a7bd4ecd2
 video.unrulymedia.com, 2736329702851206590, RESELLER
 openx.com, 540773939, RESELLER, 6a698e2ec38604c6
 appnexus.com, 8283, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 5118, DIRECT, 060d053dcf45cbf3
+sharethrough.com, 5118, DIRECT, d53b998a7bd4ecd2
