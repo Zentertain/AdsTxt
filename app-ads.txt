@@ -11712,3 +11712,37 @@ Contextweb.com, 563481, RESELLER, 89ff185a4c4e857c
 aidentity.ai, dd52104aa5, RESELLER
 rubiconproject.com, 27096, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 553724922, DIRECT
+bidease.com, bidease_seller_36, RESELLER
+pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
+pubnative.net, 1009966, RESELLER, d641df8625486a7b
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
+openx.com, 561593493, RESELLER, 6a698e2ec38604c6
+playdigo.com, 2041, RESELLER, 92011346d63d3c30
+aidentity.ai, 8847a2695c, RESELLER
+supply.colossusssp.com, 848, RESELLER
+connekt.ai, 8882281918, RESELLER
+iqzone.com, IQ96, RESELLER
+media.net, 8CU574IRP, RESELLER
+freewheel.tv, 1608050, RESELLER
+freewheel.tv, 1608057, RESELLER
+sabio.us, 100092, reseller, 96ed93aaa9795702
+themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
+onetag.com, 925c32ef718e9fe, RESELLER
+playdigo.com, 1969, RESELLER, 92011346d63d3c30
+pubmatic.com, 166180, RESELLER, 5d62403b186f2ace
+richaudience.com, 7en1bt3GDL, RESELLER
+Vidoomy.com, 6131417, RESELLER
+thebrave.io, 1234747, RESELLER, c25b2154543746ac
+adyoulike.com, b34853042732798bb3c05afcbc0255f1, RESELLER
+adisontv.com, 398, RESELLER
+taipeidigital.com, 0101231145, RESELLER
+danoler.com, 1143, RESELLER
+kelmak.com, 117-p002, RESELLER
+inmobi.com, 95e2b3b059d64b2c97e4cf8dc2b15796, RESELLER, 83e75a7ae333ca9d
+risecodes.com, 663cba61d3708c000172de04, RESELLER
+lunamedia.io, d5b7a3e0bf7575046765e5c639e98ab0, RESELLER, 524ecb396915caaf
+advibe.media, 282121, RESELLER
+lijit.com, 512156, RESELLER, fafdf38b16bf6b2b #SOVRN
+tubia.com, 40105, RESELLER
+sspx.tech, dspx146, RESELLER
+mediaverse.ai, 302152861, RESELLER
