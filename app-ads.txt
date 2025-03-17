@@ -13970,3 +13970,5 @@ spotim.market,sp_AYL2022,RESELLER,077e5f709d15bdbb
 spotxchange.com,230037,RESELLER,7842df1d2fe2db34
 themediagrid.com,RYIDPE,RESELLER,35d5010d7789b49d
 loopme.com,11480,RESELLER,6c8d5f95897a5a3b
+indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
+adyoulike.com, 996107665, RESELLER, 2d578cf695c89ec2ba707280319d2020
