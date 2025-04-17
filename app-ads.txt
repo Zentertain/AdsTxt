@@ -5274,7 +5274,6 @@ applovin.com, 41bcfbf79a2f87f4554244a3775c2086, DIRECT
 applovin.com, b035122c2db3a2fdcad0d0cb3b43ea21, DIRECT
 applovin.com, e90ae2f2a35275f103c117c358a34f93, DIRECT
 applovin.com, a4007b258948b7f2b853a571764beca4, DIRECT
-managerdomain=bidmachine.io
 applovin.com, b1aeba377deb18966a2dd20edfea54eb, DIRECT
 applovin.com, d0ed4b1f9a8b07ad622241e592262b2c, DIRECT
 applovin.com, b05e4e9214c14305e9d16f736f768389, DIRECT
@@ -8331,7 +8330,6 @@ yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 Added.tv, 3d20ca0f, RESELLER
 bidmachine.io, 359, DIRECT
-managerdomain=bidmachine.io
 google.com,pub-7279990999620104,DIRECT,f08c47fec0942fa0adelement.com,101,RESELLER
 conversantmedia.com,100457,RESELLER,03113cd04947736d
 criteo.com,B-057601,RESELLER,9fac4a4a87c2a44f
