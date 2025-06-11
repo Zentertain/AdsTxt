@@ -14058,3 +14058,4 @@ inmobi.com, ae6d6d3e5c77453b8361651a9ce29870, RESELLER, 83e75a7ae333ca9d
 video.unrulymedia.com, 640018708, RESELLER
 adyoulike.com, 4ad745ead2958bf7, RESELLER
 trustedstack.com, TSCLS3659, RESELLER
+indexexchange.com, 192505, RESELLER, 50b1c356f2c5c8fc
