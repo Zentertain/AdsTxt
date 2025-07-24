@@ -14060,3 +14060,11 @@ adyoulike.com, 4ad745ead2958bf7, RESELLER
 trustedstack.com, TSCLS3659, RESELLER
 indexexchange.com, 192505, RESELLER, 50b1c356f2c5c8fc
 themediagrid.com,1283WV,RESELLER,35d5010d7789b49d
+pgamssp.com, 67f939e4ab77600bf50713d6, RESELLER
+pubmatic.com, 162623, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24852, RESELLER, 0bfd66d529a55807
+smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
+richaudience.com, h44H1yPBlk, RESELLER
+taboola.com, 1618213, DIRECT, c228e6794e811952
+vidazoo.com, 6864e2c5609707a223281c6c, RESELLER, b6ada874b4d7d0b2
+app-stock.com, 509221, RESELLER, ed8c126ea5971415
