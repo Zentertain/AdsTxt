@@ -8628,3 +8628,13 @@ media.net, 8CU5L226O, RESELLER
 pubeasy.io, 110039, RESELLER
 advisermedia.co, 70582, RESELLER
 video.unrulymedia.com,553724922,DIRECT,98c21ef9a666c68b
+iion.io, 10318, DIRECT
+rubiconproject.com, 13510, RESELLER
+adyoulike.com, c614fe3fe0114cbf1f9d7d878e6e7ee7, RESELLER
+opera.com, pub13158599038336, RESELLER, 55a0c5fd61378de3
+frameplay.gg, 9251981480, RESELLER, f3e384c386126e9d
+tradplusad.com, 0d5ff800cc9825f5, RESELLER
+ignitemediatech.com, pub_11132, RESELLER
+ushareit.com, LCd8207a03da207ca4, RESELLER
+lacunads.com, LCd8207a03da207ca4, RESELLER
+smilewanted.com, 5098, RESELLER
