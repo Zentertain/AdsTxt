@@ -8851,3 +8851,4 @@ pubmatic.com, 164351, RESELLER, 5d62403b186f2ace
 xandr.com, 13363, RESELLER, f5ab79cb980f11d1
 pubmatic.com, 160989, RESELLER, 5d62403b186f2ace
 bigo.sg, 1511, DIRECT
+rubiconproject.com, 28091, DIRECT, 0bfd66d529a55807
