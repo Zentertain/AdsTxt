@@ -8894,3 +8894,18 @@ ssp.zetaglobal.net,815,RESELLER
 trustedstack.com,TSTKQ5827,RESELLER
 ucfunnel.com,par-9A23ADEEDB99A76804B276748E8E2434,RESELLER
 zetaglobal.com,815,RESELLER
+admatic.de, ade-pub-5323913819, RESELLER, uufps1dh5stc6euk
+kidoz.net,15467,RESELLER,a109366414b7335e
+smoot.ai, 100087, RESELLER
+adyoulike.com, a139ca0a98689a058d21904c3c44f8e6, RESELLER
+axonix.com, 59054, RESELLER
+spinx.biz, 1373698867, RESELLER
+balloonlabs.ai, 2852462, RESELLER
+programmaticx.ai ,6654983, RESELLER, b42d42eb28400efa
+freewheel.tv,536110-r-524565, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc436935, RESELLER
+freewheel.tv,536110-r-523319, RESELLER
+motorik.io, 157, RESELLER
+gitberry.com, RESELLER, 816110171
+voisetech.com, 1005, RESELLER
+mediayo.ai, 2255102, RESELLER
