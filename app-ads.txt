@@ -10351,6 +10351,8 @@ xandr.com,15840,RESELLER
 zetaglobal.net,815,RESELLER
 zmaticoo.com,114490,RESELLER
 zmaticoo.com,5135063,RESELLER
-zoomd.com,88478941,RESELLER
 lkqd.net, 1745, DIRECT, 59c49fa9598a0117
 loopme.com,19387,DIRECT,6c8d5f95897a5a3b
+adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
+bidease.com, bidease_seller_26, RESELLER
+zmaticoo.com, 5135655, RESELLER
