@@ -10356,4 +10356,5 @@ lkqd.net, 1745, DIRECT, 59c49fa9598a0117
 loopme.com,19387,DIRECT,6c8d5f95897a5a3b
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 bidease.com, bidease_seller_26, RESELLER
-zmaticoo.com, 5135655, RESELLER
+themediagrid.com, 4ZVFEU, RESELLER, 35d5010d7789b49d
+lunamedia.io, af7ae70f-e364-44a3-a5bf-d6567895c3bz, RESELLER, 524ecb396915caaf
