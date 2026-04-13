@@ -10357,4 +10357,6 @@ loopme.com,19387,DIRECT,6c8d5f95897a5a3b
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 bidease.com, bidease_seller_26, RESELLER
 themediagrid.com, 4ZVFEU, RESELLER, 35d5010d7789b49d
-lunamedia.io, af7ae70f-e364-44a3-a5bf-d6567895c3bz, RESELLER, 524ecb396915caaf
+mobilefuse.com,4327,DIRECT
+sharethrough.com,byRFRtyu,DIRECT,d53b998a7bd4ecd2
+Vrtcal.com,470,DIRECT,c6daee9168853e2d
