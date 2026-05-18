@@ -10379,4 +10379,9 @@ uis.mobfox.com, 2310, RESELLER 5529a3d1f59865be
 lemmatechnologies.com, 942, RESELLER, 7829010c5bebd1fb
 inmobi.com, bfe203493be74a45917b0993b9a74596, DIRECT, 83e75a7ae333ca9d
 zmaticoo.com, 113149, RESELLER
-aralego.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
+thunder-monetize.com, 6657389855, DIRECT
+thunder-monetize.com, 6439901179, DIRECT
+appsheep.com, 3fb36e99e1284fe2b9c087d7b2f48ec8, DIRECT
+appsheep.com, 3945046b97254edf95d04b14fcd51a0a, DIRECT
+improvedigital.com, 2873, DIRECT
+openx.com, 564972066, DIRECT, 6a698e2ec38604c6
