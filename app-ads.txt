@@ -10385,3 +10385,5 @@ appsheep.com, 3fb36e99e1284fe2b9c087d7b2f48ec8, DIRECT
 appsheep.com, 3945046b97254edf95d04b14fcd51a0a, DIRECT
 improvedigital.com, 2873, DIRECT
 openx.com, 564972066, DIRECT, 6a698e2ec38604c6
+Se7en.es, 212822, DIRECT, 064bc410192443d8
+videoheroes.tv, 212822, DIRECT, 064bc410192443d8
