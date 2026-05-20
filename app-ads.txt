@@ -10387,4 +10387,12 @@ improvedigital.com, 2873, DIRECT
 openx.com, 564972066, DIRECT, 6a698e2ec38604c6
 Se7en.es, 212822, DIRECT, 064bc410192443d8
 videoheroes.tv, 212822, DIRECT, 064bc410192443d8
-aralego.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
+admanmedia.com, 2406, DIRECT
+sharethrough.com, 3713, RESELLER, d53b998a7bd4ecd2
+Smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
+loopme.com, 14118, RESELLER, 6c8d5f95897a5a3b
+adform.com, 3393, RESELLER, 9f5210a2f0999e32
+improvedigital.com, 2643, RESELLER
+onetag.com, 95b3718ec52c228, RESELLER
+rtbhouse.com, v9OtJDzCWTKAPdzbpmOI, RESELLER, 4f3b94578e85950c
+risecodes.com, 69c27ce4d35af000017c7c5d, RESELLER
