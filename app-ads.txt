@@ -10397,3 +10397,4 @@ onetag.com, 95b3718ec52c228, RESELLER
 rtbhouse.com, v9OtJDzCWTKAPdzbpmOI, RESELLER, 4f3b94578e85950c
 risecodes.com, 69c27ce4d35af000017c7c5d, RESELLER
 facebook.com, 863171470360588, DIRECT, c3e20eee3f780d68
+thebrave.io, 1234942, DIRECT, c25b2154543746ac
