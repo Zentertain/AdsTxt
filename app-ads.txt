@@ -10423,3 +10423,5 @@ oko.uk,e2d3e33c-9911-477a-8ae2-f059870c67c0,RESELLER,b3511ffcafb23a32
 e-planning.net,ea9874674191f1ff, RESELLER,c1ba615865ed87b2
 app-stock.com,344422,DIRECT,ed8c126ea5971415
 yieldmo.com, 4088056675171246132, DIRECT
+smartadserver.com, 5736, DIRECT, 060d053dcf45cbf3
+sharethrough.com, 5736, DIRECT, d53b998a7bd4ecd2
