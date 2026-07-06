@@ -10433,3 +10433,8 @@ lijit.com, 606368, DIRECT, fafdf38b16bf6b2b #SOVRN
 lijit.com, 606368-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
 media.net, 8CABTBF63, DIRECT
 pubmatic.com, 167848, DIRECT, 5d62403b186f2ace
+eskimi.com,2020001211,RESELLER
+kargo.com,9101,RESELLER,98ccdd9948ed08da
+sharethrough.com,4383,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,4811,RESELLER,d53b998a7bd4ecd2
+smartadserver.com,4811,RESELLER,060d053dcf45cbf3
