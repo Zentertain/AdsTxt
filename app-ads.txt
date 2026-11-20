@@ -11042,4 +11042,12 @@ smilewanted.com, 6213, RESELLER
 eskimi.com, 2020000029, RESELLER #Smaato
 freewheel.tv, 542797-r-523319, RESELLER
 freewheel.tv, 542797-r-524565, RESELLER
-triplelift.com, 14851, RESELLER, 6c33edb13117fd86
+freewheel.tv, 534608-r-524565, RESELLER
+taurusx.com, 80637, RESELLER
+smaato.com, 1100060449, RESELLER, 07bcf65f187117b4
+algorix.co, 604540, RESELLER, 5b394c12fea27a1d
+adsmovil.com, JKHGrlkjds15, RESELLER
+insticator.com,4022291c-df72-416d-98ba-ab42fb0696d3,RESELLER,b3511ffcafb23a32
+adorphic.com, 4071, RESELLER
+dauup.com, 34245, RESELLER, 4daba13e2b0dfd99
+playdigo.com, 1958, RESELLER
